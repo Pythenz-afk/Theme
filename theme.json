@@ -20,8 +20,8 @@
     "ICON_COLOR": "#EB5BE6"
   },
   "background": {
-    "image": "https://cdn.discordapp.com/attachments/1433759405257789561/1435657449670443140/IMG_1869.jpg",
-    "blur": 0.2
+    "alpha": 5,
+    "url": "https://cdn.discordapp.com/attachments/1433759405257789561/1435657449670443140/IMG_1869.jpg"
   },
   "spec": 2
 }
