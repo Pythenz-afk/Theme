@@ -1,23 +1,22 @@
 {
   "name": "ReeeseVibe",
-  "version": "1.1.0",
-  "author": "Pythenz & Reeese",
-  "description": "Custom neon romance theme with Reeese’s color mix 💜🔥",
+  "description": "Neon romance theme made by Pythenz & Reeese 💜🔥",
+  "version": "1.0.0",
+  "authors": ["Pythenz", "Reeese"],
+  "spec": 2,
   "theme": {
-    "background_primary": "#562D86",
-    "background_secondary": "#B926C1",
-    "text_primary": "#DE6C43",
-    "accent_color": "#A32019",
-    "link_color": "#22DF09",
-    "hover_background": "#3A91B9",
-    "font": {
-      "family": "Poppins, sans-serif",
-      "size_base": "15px"
+    "variables": {
+      "cv-background": "#562D86",
+      "cv-background-secondary": "#B926C1",
+      "cv-text": "#DE6C43",
+      "cv-accent": "#A32019",
+      "cv-link": "#22DF09",
+      "cv-hover": "#3A91B9",
+      "cv-icon": "#EB5BE6"
     },
-    "rounded_corners": "8px",
-    "icon_style": {
-      "fill_color": "#EB5BE6",
-      "hover_fill": "#A32019"
+    "background": {
+      "image": "",
+      "blur": 0.2
     }
   }
 }
