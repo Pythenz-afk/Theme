@@ -1,22 +1,27 @@
 {
-  "name": "ReeeseVibe",
-  "description": "Neon romance theme made by Pythenz & Reeese 💜🔥",
+  "name": "Reeese Vibe",
+  "description": "Custom neon romance theme by Pythenz & Reeese",
   "version": "1.0.0",
-  "authors": ["Pythenz", "Reeese"],
-  "spec": 2,
-  "theme": {
-    "variables": {
-      "cv-background": "#562D86",
-      "cv-background-secondary": "#B926C1",
-      "cv-text": "#DE6C43",
-      "cv-accent": "#A32019",
-      "cv-link": "#22DF09",
-      "cv-hover": "#3A91B9",
-      "cv-icon": "#EB5BE6"
-    },
-    "background": {
-      "image": "https://cdn.discordapp.com/attachments/1433759405257789561/1435657449670443140/IMG_1869.jpg?ex=690cc3b1&is=690b7231&hm=ec069d721323dadccc2b1a7e18a0e1167efb89d745efadb0938e621505159238&",
-      "blur": 0.2
-    }
-  }
+  "authors": [
+    { "name": "Pythenz", "id": "" },
+    { "name": "Reeese", "id": "" }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [ "#562D86" ],
+    "BACKGROUND_SECONDARY": [ "#B926C1" ],
+    "TEXT_NORMAL": [ "#DE6C43" ],
+    "INTERACTIVE_NORMAL": [ "#A32019" ],
+    "TEXT_LINK": [ "#22DF09" ],
+    "BACKGROUND_MESSAGE_HOVER": [ "#3A91B9" ],
+    "ICON": [ "#EB5BE6" ]
+  },
+  "rawColors": {
+    "ACCENT": "#A32019",
+    "ICON_COLOR": "#EB5BE6"
+  },
+  "background": {
+    "image": "https://cdn.discordapp.com/attachments/1433759405257789561/1435657449670443140/IMG_1869.jpg",
+    "blur": 0.2
+  },
+  "spec": 2
 }
